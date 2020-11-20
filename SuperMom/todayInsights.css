@@ -3,8 +3,8 @@
 	--web-view-id: todayInsights;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: height;
-	--web-scale-on-resize: true;
-	--web-center-horizontally: true;
+	--web-scale-on-resize: false;
+	--web-center-horizontally: false;
 	--web-enable-deep-linking: true;
 }
 :root {
@@ -24,7 +24,7 @@
 	height: 129px;
 
 	position: absolute;
-	left:532px
+	/*left:532px*/
 	
 
 
@@ -43,8 +43,8 @@
 	--web-view-id: todayInsights;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: height;
-	--web-scale-on-resize: true;
-	--web-center-horizontally: true;
+	--web-scale-on-resize: false;
+	--web-center-horizontally: false;
 	--web-enable-deep-linking: true;
 	
 }

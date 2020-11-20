@@ -27,9 +27,9 @@
 	--web-view-id: iPhone_X_XS_11_Pro__4;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: height;
-	--web-scale-on-resize: true;
-	--web-show-scale-controls: true;
-	--web-center-horizontally: true;
+	--web-scale-on-resize: false;
+	--web-show-scale-controls: false;
+	--web-center-horizontally: false;
 	--web-enable-deep-linking: true;
 }
 @keyframes fadein {
