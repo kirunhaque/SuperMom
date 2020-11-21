@@ -126,7 +126,7 @@
 	}
 	#Take_a_walk_outside_to_ease_yo {
 		left: 47px;
-		top: 336px;
+		top: 346px;
 		position: absolute;
 		overflow: visible;
 		width: 282px;
@@ -590,6 +590,10 @@
 		left: 311px;
 		top: 729.5px;
 		transform: matrix(1,0,0,1,0,0);
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: index.html;
+		cursor: pointer;
 	}
 	#Tab_3 {
 		position: absolute;
@@ -3493,7 +3497,7 @@ window.application = new Application();
 		</rect>
 	</svg>
 	<div id="Youre_feeling_anxious">
-		<span>You logged feeling anxious</span>
+		<span>You’re feeling anxious</span>
 	</div>
 	<div id="Take_a_walk_outside_to_ease_yo">
 		<span>Take a walk outside to ease your <br/>anxiety. Studies has shown that <br/>meditation can help alleviate anxiety <br/>and mental stress.<br/></span><br><span style="color:rgba(108,124,227,1);">source</span><span>: link<br/> </span>
@@ -3606,7 +3610,7 @@ window.application = new Application();
 		</path>
 	</svg>
 	<svg class="Icon_material-home" viewBox="3 4.5 33 33">
-		<path id="Icon_material-home" d="M 16.20000076293945 37.50000381469727 L 16.20000076293945 25.85294151306152 L 22.80000114440918 25.85294151306152 L 22.80000114440918 37.50000381469727 L 31.05000114440918 37.50000381469727 L 31.05000114440918 21.97058868408203 L 36 21.97058868408203 L 19.50000190734863 4.500000476837158 L 3.000000238418579 21.97058868408203 L 7.949999809265137 21.97058868408203 L 7.949999809265137 37.50000381469727 L 16.20000076293945 37.50000381469727 Z">
+		<path onclick="application.goToTargetView(event)" id="Icon_material-home" d="M 16.20000076293945 37.50000381469727 L 16.20000076293945 25.85294151306152 L 22.80000114440918 25.85294151306152 L 22.80000114440918 37.50000381469727 L 31.05000114440918 37.50000381469727 L 31.05000114440918 21.97058868408203 L 36 21.97058868408203 L 19.50000190734863 4.500000476837158 L 3.000000238418579 21.97058868408203 L 7.949999809265137 21.97058868408203 L 7.949999809265137 37.50000381469727 L 16.20000076293945 37.50000381469727 Z">
 		</path>
 	</svg>
 	<div id="Tab_3">
