@@ -485,7 +485,7 @@
 	top: 500px;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: iPhone_X__XS__11_Pro___1.html;
+	--web-action-target: sleep.html;
 	cursor: pointer;
 }
 #Done {
