@@ -366,7 +366,7 @@
 	transition: all 0.3s ease-out;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: iPhone_X__XS__11_Pro___13.html;
+	--web-action-target: insights.html;
 	cursor: pointer;
 	text-align: center;
 	font-family: MS Reference Sans Serif;
