@@ -3,4 +3,4 @@
 
 1. Download the SuperMom zipped folder and unzip
 
-2. Run the index.html file of firefox browser
+2. Run the index.html file on firefox browser
