@@ -31,6 +31,7 @@
 	--web-show-scale-controls: false;
 	--web-center-horizontally: false;
 	--web-enable-deep-linking: true;
+	left: 550px;
 }
 @keyframes fadein {
 
@@ -281,7 +282,8 @@
 	transition: all 0.3s ease-out;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: iPhone_X__XS__11_Pro___Calendar.html;
+	/* --web-action-target: iPhone_X__XS__11_Pro___Calendar.html; */
+	--web-action-target: calendar.html; 
 	cursor: pointer;
 }
 #Elizabeth_ {

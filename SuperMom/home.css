@@ -29,6 +29,7 @@
 	--web-scale-on-resize: false;
 	--web-center-horizontally: false;
 	--web-enable-deep-linking: true;
+	left: 550px;
 }
 @keyframes fadein {
 
@@ -250,9 +251,6 @@
 	left: 231.258px;
 	top: 221.68px;
 	transform: matrix(1,0,0,1,0,0);
-	--web-action-type: page;
-	--web-action-target: iPhone_X__XS__11_Pro___5.html;
-	cursor: pointer;
 }
 #Activity_ {
 	left: 237px;

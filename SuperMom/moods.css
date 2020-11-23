@@ -30,6 +30,7 @@
 	--web-scale-on-resize: false;
 	--web-center-horizontally: false;
 	--web-enable-deep-linking: true;
+	left:550px;
 }
 
 
@@ -1395,7 +1396,7 @@
 	overflow: visible;
 	width: 110px;
 	height: 50px;
-	left: 95px;
+	left: 680px;
 	top: 500px;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
@@ -1403,7 +1404,7 @@
 	cursor: pointer;
 }
 #Save {
-	left: 118px;
+	left: 703px;
 	top: 510px;
 	position: fixed;
 	overflow: visible;

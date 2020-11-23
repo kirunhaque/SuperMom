@@ -25,6 +25,7 @@
 
 	position: absolute;
 	/*left:532px*/
+	left:550px;
 	
 
 
@@ -46,6 +47,7 @@
 	--web-scale-on-resize: false;
 	--web-center-horizontally: false;
 	--web-enable-deep-linking: true;
+	left:550px;
 	
 }
 @keyframes fadein {
