@@ -71,7 +71,7 @@
 	height: 52px;
 	left: 119px;
 	top: 617px;
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	--web-action-target: todayInsights.html;
 	cursor: pointer;
@@ -212,7 +212,7 @@
 	left: 178px;
 	top: 731px;
 	transform: matrix(1,0,0,1,0,0);
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	--web-action-target: iPhone_X__XS__11_Pro___5.html;
 	cursor: pointer;
@@ -246,7 +246,7 @@
 	left: 311px;
 	top: 729.5px;
 	transform: matrix(1,0,0,1,0,0);
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	--web-action-target: index.html;
 	cursor: pointer;
@@ -280,7 +280,7 @@
 	left: 71px;
 	top: 98px;
 	transition: all 0.3s ease-out;
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	/* --web-action-target: iPhone_X__XS__11_Pro___Calendar.html; */
 	--web-action-target: calendar.html; 
@@ -366,7 +366,7 @@
 	width: 93px;
 	white-space: nowrap;
 	transition: all 0.3s ease-out;
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	--web-action-target: insights.html;
 	cursor: pointer;
@@ -422,7 +422,7 @@
 	left: 95px;
 	top: 730px;
 	transform: matrix(1,0,0,1,0,0);
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	--web-action-target: iPhone_X__XS__11_Pro___72.html;
 	cursor: pointer;
@@ -443,7 +443,7 @@
 	height: 52px;
 	left: 71px;
 	top: 264px;
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	--web-action-target: moods.html;
 	cursor: pointer;
@@ -464,7 +464,7 @@
 	height: 52px;
 	left: 71px;
 	top: 383px;
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	--web-action-target: Stress.html;
 	cursor: pointer;
@@ -485,7 +485,7 @@
 	height: 52px;
 	left: 71px;
 	top: 500px;
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	--web-action-target: sleep.html;
 	cursor: pointer;
@@ -497,7 +497,7 @@
 	overflow: visible;
 	width: 71px;
 	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	--web-action-target: todayInsights.html;
 	cursor: pointer;

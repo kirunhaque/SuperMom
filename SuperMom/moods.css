@@ -1098,7 +1098,7 @@
 	left: 30px;
 	top: 56px;
 	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	--web-action-target: feelings.html;
 	cursor: pointer;
@@ -1319,7 +1319,7 @@
 	top: 729.802px;
 	transform: matrix(1,0,0,1,0,0);
 	transition: all 0.3s ease-out;
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	--web-action-target: feelings.html;
 	cursor: pointer;
@@ -1335,7 +1335,7 @@
 	left: 95px;
 	top: 730px;
 	transform: matrix(1,0,0,1,0,0);
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	--web-action-target: iPhone_X__XS__11_Pro___72.html;
 	cursor: pointer;
@@ -1397,20 +1397,22 @@
 	width: 110px;
 	height: 50px;
 	left: 680px;
-	top: 500px;
-	--web-animation: fadein 0.3s ease-out;
+	/* top: 500px; */
+	bottom:0px;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	--web-action-target: feelings.html;
 	cursor: pointer;
 }
 #Save {
 	left: 703px;
-	top: 510px;
+	/* top: 510px; */
+	bottom: 10px;
 	position: fixed;
 	overflow: visible;
 	width: 67px;
 	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	--web-action-target: feelings.html;
 	cursor: pointer;

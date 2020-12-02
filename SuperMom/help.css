@@ -352,7 +352,7 @@
 	left: 333px;
 	top: 44px;
 	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.1s ease-out;
 	--web-action-type: page;
 	--web-action-target: index.html;
 	cursor: pointer;
